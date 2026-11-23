@@ -73,7 +73,7 @@ library-management-system/
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/sanskar-soni/library-management-system.git
+git clone https://github.com/Sanskarsoni-013/library-management-system.git
 cd library-management-system
 ```
 
@@ -90,4 +90,4 @@ python src/app.py
 ---
 
 ## 👤 Author
-- **Sanskar Soni** - [LinkedIn](https://linkedin.com/in/sanskar-soni-669382311) • [GitHub](https://github.com/sanskar-soni)
+- **Sanskar Soni** - [LinkedIn](https://linkedin.com/in/sanskar-soni-669382311) • [GitHub](https://github.com/Sanskarsoni-013)
